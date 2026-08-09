@@ -14,9 +14,22 @@
 		000000000000000000000120 /* CrashReportKit Inspector.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CrashReportKit Inspector.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		9C4926CB30291D07007076BA /* Exceptions for "CrashReportKit Inspector" folder in "CrashReportKit Inspector" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"CrashReportKit-Inspector-Info.plist",
+			);
+			target = 000000000000000100000000 /* CrashReportKit Inspector */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		000000000000000000000010 /* CrashReportKit Inspector */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				9C4926CB30291D07007076BA /* Exceptions for "CrashReportKit Inspector" folder in "CrashReportKit Inspector" target */,
+			);
 			path = "CrashReportKit Inspector";
 			sourceTree = "<group>";
 		};
@@ -267,8 +280,10 @@
 				ENABLE_APP_SANDBOX = NO;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "CrashReportKit-Inspector-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "CrashReportKit Inspector";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "© 2026 Ahnaf Mahmud";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -305,8 +320,10 @@
 				ENABLE_APP_SANDBOX = NO;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "CrashReportKit-Inspector-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "CrashReportKit Inspector";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "© 2026 Ahnaf Mahmud";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
