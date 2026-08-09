@@ -6,6 +6,8 @@ CrashReportKit Inspector is a macOS companion app for viewing and symbolically r
 
 Select a CrashReportKit JSON report and its matching dSYM bundle. The app matches binary UUIDs, resolves available stack-frame symbols, and opens an inspection window containing a readable crash summary and the resulting symbolicated JSON.
 
+[Download](https://github.com/infinitepower18/CrashReportKit-Inspector/releases/latest)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F1K06VY)
 
 <img width="560" height="292" alt="Screenshot 2026-08-09 at 9 22 23 pm" src="https://github.com/user-attachments/assets/e1cd0b8c-17ab-4d62-adbb-dc542e8e0f42" />
