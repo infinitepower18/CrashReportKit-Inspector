@@ -14,22 +14,9 @@
 		000000000000000000000120 /* CrashReportKit Inspector.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CrashReportKit Inspector.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		9C4926CB30291D07007076BA /* Exceptions for "CrashReportKit Inspector" folder in "CrashReportKit Inspector" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				"CrashReportKit-Inspector-Info.plist",
-			);
-			target = 000000000000000100000000 /* CrashReportKit Inspector */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		000000000000000000000010 /* CrashReportKit Inspector */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				9C4926CB30291D07007076BA /* Exceptions for "CrashReportKit Inspector" folder in "CrashReportKit Inspector" target */,
-			);
 			path = "CrashReportKit Inspector";
 			sourceTree = "<group>";
 		};
@@ -274,6 +261,7 @@
 		000000000000000111000000 /* Debug configuration for PBXNativeTarget "CrashReportKit Inspector" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				AUTOMATION_APPLE_EVENTS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -328,6 +316,7 @@
 		000000000000000112000000 /* Release configuration for PBXNativeTarget "CrashReportKit Inspector" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				AUTOMATION_APPLE_EVENTS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
