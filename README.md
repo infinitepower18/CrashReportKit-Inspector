@@ -10,7 +10,7 @@ Select a CrashReportKit JSON report and its matching dSYM bundle. The app matche
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F1K06VY)
 
-<img width="560" height="292" alt="Screenshot 2026-08-09 at 9 22 23 pm" src="https://github.com/user-attachments/assets/e1cd0b8c-17ab-4d62-adbb-dc542e8e0f42" />
+<img width="672" height="404" alt="Screenshot 2026-08-13 at 7 54 09 pm" src="https://github.com/user-attachments/assets/bb3f65b8-be94-4d7a-a466-b850e1010d29" />
 
 ## Features
 
